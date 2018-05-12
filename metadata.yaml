@@ -27,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6876
     wikipedia: http://en.wikipedia.org/wiki/Edward_Thomas_%28poet%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41345#Windsor-Castle
 gutenberg_issued: '2012-11-11'
 gutenberg_type: Text
 identifiers:
